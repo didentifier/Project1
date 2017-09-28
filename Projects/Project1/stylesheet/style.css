@@ -1,0 +1,14 @@
+.box{
+    
+    width:200px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid #000;
+    margin: auto;
+    transition: 0.2s ;
+}
+
+.color{
+    background-color: green;
+    color:white;
+}
